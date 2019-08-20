@@ -5,3 +5,18 @@
 5.rm -r cs242
 6.mkdir -p cs242/lab_1
 7.cd cs242/lab_1
+wget practice_matrial.tar.gz
+tar -tvf practice_material.tar.gz 
+tar -xvzf practice_material.tar.gz small_files/test_file_2.md
+tree
+ls -l practice_material
+ls -R practice_material or find practice_material
+ls -l practice_material
+ls -lSr practice_material
+ls -lt practice_material
+clear
+cd //temp
+touch test_file.txt
+echo jaswanth
+echo jaswanth>test_file.txt
+cat test_file.txt
