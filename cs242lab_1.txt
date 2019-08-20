@@ -1,0 +1,5 @@
+1.ctrl+alt+t
+2.pwd
+3.mkdir cs242
+4.mkdir cs242/lab_1
+
