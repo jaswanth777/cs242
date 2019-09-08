@@ -4,12 +4,17 @@ Hi all,
 Consider the following resources as reference material for the sed/grep/awk tools.
 
 
-    grep, sed, awk: Chapter 7, 10 and 11 from the "Unix in a nutshell" book by Arnold Robbins concisely explains different functionalities of these tools. However, only a few hands-on examples are mentioned.
-    Shell expansions (Brace, Tilde and Filename expansions): https://www.gnu.org/software/bash/manual/html_node/Shell-Expansions.html#Shell-Expansions
-    grep regular expressions: https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux
-    find command: https://danielmiessler.com/study/find/. Forensics Information and Xargs vs. Exec sections of the tutorial are optional. There is an error in the command mentioned for "Show me what content owned by root have been modified within the last minute" subsection, the correct option should be -mmin instead of -mtime. The manual page of the find command is an excellent resource to know in detail about the mtime and mmin options.
-    For sed and grep, please refer to the following short and informative tutorial: https://iitgoffice-my.sharepoint.com/:b:/g/personal/anand_ashish_iitg_ac_in/Edan35yt0OtMsOMASvPeq0UBMfXDSYhPK9JVBKeYhayCzw?e=3kxwUU.
-    For awk, please refer to this tutorial: https://www.tutorialspoint.com/awk/index.htm.
+1.grep, sed, awk: Chapter 7, 10 and 11 from the "Unix in a nutshell" book by Arnold Robbins concisely explains different functionalities of these tools. However, only a few hands-on examples are mentioned.
+
+2.Shell expansions (Brace, Tilde and Filename expansions): https://www.gnu.org/software/bash/manual/html_node/Shell-Expansions.html#Shell-Expansions
+
+3.grep regular expressions: https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux
+
+4.find command: https://danielmiessler.com/study/find/. Forensics Information and Xargs vs. Exec sections of the tutorial are optional. There is an error in the command mentioned for "Show me what content owned by root have been modified within the last minute" subsection, the correct option should be -mmin instead of -mtime. The manual page of the find command is an excellent resource to know in detail about the mtime and mmin options.
+
+5.For sed and grep, please refer to the following short and informative tutorial: https://iitgoffice-my.sharepoint.com/:b:/g/personal/anand_ashish_iitg_ac_in/Edan35yt0OtMsOMASvPeq0UBMfXDSYhPK9JVBKeYhayCzw?e=3kxwUU.
+
+6.For awk, please refer to this tutorial: https://www.tutorialspoint.com/awk/index.htm.
 
 
 Practice questions:
@@ -29,3 +34,11 @@ Regards
 Abhishek
 
 
+ Please refer to the following links for a brief tutorial:
+
+    https://www.youtube.com/watch?v=uJnrh9hAQR0
+    https://www.youtube.com/watch?v=-CTBgNO-MHY
+    https://askubuntu.com/questions/20752/how-can-i-search-within-a-manpage
+
+Regards
+Abhishek
