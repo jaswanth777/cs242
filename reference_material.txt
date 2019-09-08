@@ -1,0 +1,31 @@
+Hi all,
+
+
+Consider the following resources as reference material for the sed/grep/awk tools.
+
+
+    grep, sed, awk: Chapter 7, 10 and 11 from the "Unix in a nutshell" book by Arnold Robbins concisely explains different functionalities of these tools. However, only a few hands-on examples are mentioned.
+    Shell expansions (Brace, Tilde and Filename expansions): https://www.gnu.org/software/bash/manual/html_node/Shell-Expansions.html#Shell-Expansions
+    grep regular expressions: https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux
+    find command: https://danielmiessler.com/study/find/. Forensics Information and Xargs vs. Exec sections of the tutorial are optional. There is an error in the command mentioned for "Show me what content owned by root have been modified within the last minute" subsection, the correct option should be -mmin instead of -mtime. The manual page of the find command is an excellent resource to know in detail about the mtime and mmin options.
+    For sed and grep, please refer to the following short and informative tutorial: https://iitgoffice-my.sharepoint.com/:b:/g/personal/anand_ashish_iitg_ac_in/Edan35yt0OtMsOMASvPeq0UBMfXDSYhPK9JVBKeYhayCzw?e=3kxwUU.
+    For awk, please refer to this tutorial: https://www.tutorialspoint.com/awk/index.htm.
+
+
+Practice questions:
+
+
+You can practice the problems shared during the same course in the previous year available at http://jatinga.iitg.ernet.in/~asahu/cs241/
+
+
+Look for the link "Modified Problem Statement for SED Part" and "AWK.and.shell_Questions.pdf".
+
+
+All tutorial presentations are uploaded on the shared OneDrive folder.
+
+
+Regards
+
+Abhishek
+
+
